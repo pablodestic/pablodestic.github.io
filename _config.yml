@@ -104,6 +104,8 @@ defaults:
       layout: single
       author_profile: true
 
+p:
+  margin: 0
+  
 ul:
-  display:inline-block
-  padding:0
+  margin-top: 0
