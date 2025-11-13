@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Pre-publications
 permalink: /publications/
 ---
 <ol>
