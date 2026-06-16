@@ -8,7 +8,7 @@ author_profile: false
 <div style="display:flex; gap:4%; margin:0 15%;">
     <img
         src="/assets/images/main-photo.png"
-        height="50%"
+        width="30%"
         alt="Photo"
     >
 
