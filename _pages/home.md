@@ -24,6 +24,6 @@ author_profile: false
     </p>
 
     <p>
-        You can find my resume <a href = "/assets/CV.pdf">here</a>, or email me at destic [at] math.univ-lyon1.fr.
+        You can find my resume <a href = "/assets/CV_english.pdf">here</a>, or email me at destic [at] math.univ-lyon1.fr.
     </p>
 </div>
