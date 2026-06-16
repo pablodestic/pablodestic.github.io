@@ -5,7 +5,7 @@ hidden: true
 author_profile: false
 ---
 
-<div style="display:flex; gap:50px; margin:0 300px;">
+<div style="display:flex; gap:4%; margin:0 12%;">
     <img
         src="/assets/images/main-photo.png"
         width="300"
