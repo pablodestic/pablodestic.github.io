@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <div class="container">
-  <img src="/assets/images/main-photo.png" height= "400" width= "300"/>
+  <img src="/assets/images/main-photo.png" height= "400" width= "300" align="left"/>
 
   <p class="text">
   I am a PhD student at <a href = "https://math.univ-lyon1.fr/icj/">Institut Camille Jordan</a>, supervised by <a href = "https://math.univ-lyon1.fr/~begnac/">Itaï Ben Yaacov</a>. 
@@ -15,6 +15,6 @@ author_profile: false
   These are fields equipped with functions called <it>heights</it>, which generalise the notion of Weil heights over global fields.
   Globally valued fields are analogous to adelic curves, but can be studied as structures in first-order continuous logic.
 
-  You can find my resume <a href = "/assets/CV.pdf">here</a>, or email me at destic[at]math.univ-lyon1.fr.
+  You can find my resume <a href = "/assets/CV.pdf">here</a>, or email me at destic [at] math.univ-lyon1.fr.
   </p>
 </div>
