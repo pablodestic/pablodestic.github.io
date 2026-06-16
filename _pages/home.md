@@ -19,9 +19,10 @@ author_profile: false
         </p>
 
         <p>
-            My main interest is to study the model theory of globally valued fields, for which a detailed introduction can be found in <a href = "https://arxiv.org/abs/2409.04570">this paper</a>.
+            My main interest is to study the theory of globally valued fields and their applications to arithmetic geometry.
             These are fields equipped with functions called <it>heights</it>, which generalise the notion of Weil heights over global fields.
-            Globally valued fields are analogous to adelic curves, but can be studied as structures in first-order continuous logic.
+            They constitute a model-theoretical approach to the theory of adelic curves.
+            A detailed introduction can be found in <a href = "https://arxiv.org/abs/2409.04570">this paper</a>.
         </p>
 
         <p>
