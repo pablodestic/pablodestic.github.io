@@ -5,9 +5,7 @@ hidden: true
 author_profile: false
 ---
 
-<div height="400" width="1500">
-<img src="/assets/images/main-photo.png" height= "400" width= "300" align="center"/>
-</div>
+<img src="/assets/images/main-photo.png" height= "400" width= "300" align="left"/>
 
 <div height="400" with="1500">
 <p>
