@@ -1,11 +1,37 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-author_profile: true
----
+title: "Home"
+layout: splash
+permalink: /home/
+feature_row:
+  - image_path: assets/images/photo-lisbon.png
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row2:
+  - image_path: /assets/images/photo-lisbon.png
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 
+{% include feature_row id="feature_row" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+<!--
 <p>
 I am a PhD student at <a href = "https://math.univ-lyon1.fr/icj/">Institut Camille Jordan</a>, supervised by <a href = "https://math.univ-lyon1.fr/~begnac/">Itaï Ben Yaacov</a>. 
 </p>
@@ -15,3 +41,8 @@ My main interest is to study the model theory of globally valued fields, for whi
 These are fields equipped with functions called <it>heights</it>, which generalise the notion of Weil heights over global fields.
 Globally valued fields are analogous to adelic curves, but can be studied as structures in first-order continuous logic.
 </p>
+
+<p>
+You can find my resume <a href = "CV.pdf">here</a>, or email me at destic[at]math.univ-lyon1.fr.
+</p>
+-->
