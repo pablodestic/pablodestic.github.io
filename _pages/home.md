@@ -7,6 +7,7 @@ author_profile: false
 
 <img src="/assets/images/main-photo.png" height= "400" width= "300" align="left"/>
 
+<div>
 <p>
 I am a PhD student at <a href = "https://math.univ-lyon1.fr/icj/">Institut Camille Jordan</a>, supervised by <a href = "https://math.univ-lyon1.fr/~begnac/">Itaï Ben Yaacov</a>. 
 </p>
@@ -18,3 +19,4 @@ Globally valued fields are analogous to adelic curves, but can be studied as str
 <p>
 You can find my resume <a href = "/assets/CV.pdf">here</a>, or email me at destic [at] math.univ-lyon1.fr.
 </p>
+</div>
