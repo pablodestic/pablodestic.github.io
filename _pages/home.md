@@ -5,7 +5,7 @@ hidden: true
 author_profile: false
 ---
 
-<img src="/images/main-photo.png" height= "320" width= "240"/>
+<img src="/assets/images/main-photo.png" height= "320" width= "240"/>
 
 <p>
 I am a PhD student at <a href = "https://math.univ-lyon1.fr/icj/">Institut Camille Jordan</a>, supervised by <a href = "https://math.univ-lyon1.fr/~begnac/">Itaï Ben Yaacov</a>. 
