@@ -5,11 +5,11 @@ hidden: true
 author_profile: false
 ---
 
-<div height="400" width="400">
-<img src="/assets/images/main-photo.png" height= "400" width= "300" align="left"/>
+<div height="400" width="400" align="left">
+<img src="/assets/images/main-photo.png" height= "400" width= "300"/>
 </div>
 
-<div>
+<div height="400" with="400" align="right">
 <p>
 I am a PhD student at <a href = "https://math.univ-lyon1.fr/icj/">Institut Camille Jordan</a>, supervised by <a href = "https://math.univ-lyon1.fr/~begnac/">Itaï Ben Yaacov</a>. 
 </p>
