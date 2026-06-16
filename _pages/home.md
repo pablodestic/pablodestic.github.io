@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 permalink: /
 hidden: true
 author_profile: false
