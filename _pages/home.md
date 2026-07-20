@@ -12,4 +12,4 @@ feature_row:
     You can find my resume <a href = '/assets/CV_english.pdf'>here</a>, or email me at destic [at] math.univ-lyon1.fr."
 ---
 
-{% include feature_row classes="two-column" %}
+{% include feature_row id="feature_row" classes="two-column" %}
