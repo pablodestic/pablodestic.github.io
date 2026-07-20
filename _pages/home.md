@@ -2,6 +2,7 @@
 title: "Home page"
 layout: splash
 permalink: /
+hidden: true
 author_profile: false
 feature_row:
   - image_path: /assets/images/main-photo.png
