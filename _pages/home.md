@@ -1,31 +1,20 @@
 ---
-layout: default
+title: "Home page"
+layout: splash
 permalink: /
-hidden: true
 author_profile: false
+feature_row:
+  - image_path: /assets/images/main-photo.png
+    alt: "Home page picture"
+  - excerpt: "My main interest is to study the theory of globally valued fields and their applications to arithmetic geometry. These are fields equipped with functions called <it>heights</it>, which generalise the notion of Weil heights over global fields. They constitute a model-theoretical approach to the theory of adelic curves. A detailed introduction can be found in <a href = "https://arxiv.org/abs/2409.04570">this paper</a>. You can find my resume <a href = "/assets/CV_english.pdf">here</a>, or email me at destic [at] math.univ-lyon1.fr."
 ---
 
-<div style="display:flex; gap:4%; margin:0 15%;">
-    <img
-        src="/assets/images/main-photo.png"
-        width="300"
-        alt="Photo"
-    >
+{% include feature_row id="intro" type="center" %}
 
-    <div>
-        <p>
-            I am a PhD student at <a href = "https://math.univ-lyon1.fr/icj/">Institut Camille Jordan</a>, supervised by <a href = "https://math.univ-lyon1.fr/~begnac/">Itaï Ben Yaacov</a>. 
-        </p>
+{% include feature_row %}
 
-        <p>
-            My main interest is to study the theory of globally valued fields and their applications to arithmetic geometry.
-            These are fields equipped with functions called <it>heights</it>, which generalise the notion of Weil heights over global fields.
-            They constitute a model-theoretical approach to the theory of adelic curves.
-            A detailed introduction can be found in <a href = "https://arxiv.org/abs/2409.04570">this paper</a>.
-        </p>
+{% include feature_row id="feature_row2" type="left" %}
 
-        <p>
-            You can find my resume <a href = "/assets/CV_english.pdf">here</a>, or email me at destic [at] math.univ-lyon1.fr.
-        </p>
-    </div>
-</div>
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
