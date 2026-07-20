@@ -73,7 +73,7 @@ author:
       url: "https://arxiv.org/search/?query=Destic%2C+Pablo&searchtype=author"
     - label: "Resume"
       icon: "fas fa-fw fa-file-text"
-      url: "assets/CV_english.pdf"
+      url: "/assets/CV_english.pdf"
 
 footer:
   links:
